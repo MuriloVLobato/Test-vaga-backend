@@ -167,27 +167,3 @@ A busca por pontos próximos é realizada em duas etapas para otimizar a perform
     Um ponto é considerado próximo se $D \le \text{raio}$.
 
 ![desmos-graph (1)](https://github.com/user-attachments/assets/d32a9bf7-b7aa-460a-8326-7f0d48db4d39)
-
-
-Você mencionou "fotos". Em READMEs, isso geralmente se refere a:
-
-* **Badges:** Imagens pequenas que indicam status ou informações do projeto. Você pode gerá-las em sites como [shields.io](https://shields.io/).
-    Exemplos:
-    ```markdown
-    ![Java](https://img.shields.io/badge/Java-17-blue.svg)
-    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.0-brightgreen.svg)
-    ![Maven](https://img.shields.io/badge/Maven-3.6%2B-red.svg)
-    ```
-
-* **Diagramas:** Como o exemplo ASCII acima para a lógica do raio. Para diagramas mais complexos, você pode usar ferramentas online (como draw.io, depois exportar como imagem e adicioná-la ao repositório) ou Mermaid syntax se o seu visualizador de Markdown suportar.
-
-* **Screenshots/Exemplos Visuais de Uso:**
-    Você pode adicionar screenshots de como fazer requisições aos endpoints usando ferramentas como Postman ou Insomnia, e como as respostas se parecem.
-    * Crie uma pasta `docs/images` no seu repositório.
-    * Salve os screenshots lá.
-    * Incorpore-os no README usando:
-        ```markdown
-        ![Exemplo de Requisição POST no Postman](docs/images/postman_post_exemplo.png)
-        ```
-
-## 📂 Estrutura do Projeto (Simplificada)
